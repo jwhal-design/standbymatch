@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#0a0a12"/>
+  
+  <!-- Belt strap left -->
+  <path d="M20 220 L120 200 L120 312 L20 292 Z" fill="#4a2c17" stroke="#2a1a0a" stroke-width="3"/>
+  
+  <!-- Belt strap right -->
+  <path d="M492 220 L392 200 L392 312 L492 292 Z" fill="#4a2c17" stroke="#2a1a0a" stroke-width="3"/>
+  
+  <!-- Strap holes left -->
+  <circle cx="70" cy="240" r="8" fill="#0a0a12"/>
+  <circle cx="70" cy="270" r="8" fill="#0a0a12"/>
+  
+  <!-- Strap holes right -->
+  <circle cx="442" cy="240" r="8" fill="#0a0a12"/>
+  <circle cx="442" cy="270" r="8" fill="#0a0a12"/>
+  
+  <!-- Side plate left -->
+  <rect x="100" y="180" width="70" height="152" rx="8" fill="#c9a227" stroke="#8a6914" stroke-width="4"/>
+  <rect x="112" y="195" width="46" height="122" rx="4" fill="#e8d878" stroke="#c9a227" stroke-width="2"/>
+  <circle cx="135" cy="256" r="25" fill="#c9a227" stroke="#8a6914" stroke-width="3"/>
+  
+  <!-- Side plate right -->
+  <rect x="342" y="180" width="70" height="152" rx="8" fill="#c9a227" stroke="#8a6914" stroke-width="4"/>
+  <rect x="354" y="195" width="46" height="122" rx="4" fill="#e8d878" stroke="#c9a227" stroke-width="2"/>
+  <circle cx="377" cy="256" r="25" fill="#c9a227" stroke="#8a6914" stroke-width="3"/>
+  
+  <!-- Main center plate -->
+  <ellipse cx="256" cy="256" rx="115" ry="130" fill="#c9a227" stroke="#8a6914" stroke-width="6"/>
+  
+  <!-- Inner plate detail -->
+  <ellipse cx="256" cy="256" rx="95" ry="110" fill="#e8d878" stroke="#c9a227" stroke-width="4"/>
+  
+  <!-- Center globe/design -->
+  <circle cx="256" cy="245" r="55" fill="#c9a227" stroke="#8a6914" stroke-width="3"/>
+  <circle cx="256" cy="245" r="42" fill="#1a3328" stroke="#c9a227" stroke-width="2"/>
+  
+  <!-- Globe lines -->
+  <ellipse cx="256" cy="245" rx="42" ry="15" fill="none" stroke="#2a5040" stroke-width="2"/>
+  <line x1="256" y1="203" x2="256" y2="287" stroke="#2a5040" stroke-width="2"/>
+  
+  <!-- SM text on belt -->
+  <text x="256" y="340" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="bold" fill="#8a6914">SM</text>
+  
+  <!-- Top decoration -->
+  <polygon points="256,130 280,160 232,160" fill="#c9a227" stroke="#8a6914" stroke-width="2"/>
+  
+  <!-- Gem accents -->
+  <circle cx="200" cy="180" r="10" fill="#a81820" stroke="#c9a227" stroke-width="2"/>
+  <circle cx="312" cy="180" r="10" fill="#a81820" stroke="#c9a227" stroke-width="2"/>
+  <circle cx="200" cy="332" r="10" fill="#a81820" stroke="#c9a227" stroke-width="2"/>
+  <circle cx="312" cy="332" r="10" fill="#a81820" stroke="#c9a227" stroke-width="2"/>
+</svg>
